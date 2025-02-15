@@ -1,0 +1,2 @@
+Added fluent validations for JobApplication properties, specifying its length, content and other validations
+To run angular app, the node modules didnt support in my PC properly, but the backend code is completely functional
